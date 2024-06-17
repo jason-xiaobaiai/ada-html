@@ -23,7 +23,7 @@ module.exports = {
     plugins: [
         themer({
             palette: {
-                extend : "mystery"
+                extend : "winter"
             },
             radius: "smoothest",
             background: "light",
